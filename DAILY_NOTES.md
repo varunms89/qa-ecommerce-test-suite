@@ -26,3 +26,10 @@
 
 ---
 
+### 📅 2026-11-16 (Monday) — Boundary Value Analysis (BVA) 6-Point Strategy
+- **Core Concept:** For any numeric boundary [Min, Max], the 6 critical test points are Min-1 (Invalid), Min (Valid), Min+1 (Valid), Max-1 (Valid), Max (Valid), and Max+1 (Invalid). Statistical studies show over 60% of logic bugs occur at boundary extremes.
+- **Author:** VARUN M S
+- **Status:** Verified in production & automated test pipelines.
+
+---
+
