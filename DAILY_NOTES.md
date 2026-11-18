@@ -40,3 +40,10 @@
 
 ---
 
+### 📅 2026-11-18 (Wednesday) — Idempotent HTTP Methods in REST APIs
+- **Core Concept:** GET, PUT, and DELETE are idempotent; making multiple identical requests must leave server state identical. POST is non-idempotent; repeated submissions create multiple records. Always verify idempotency headers in payment and order checkout APIs.
+- **Author:** VARUN M S
+- **Status:** Verified in production & automated test pipelines.
+
+---
+
