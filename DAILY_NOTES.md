@@ -47,3 +47,10 @@
 
 ---
 
+### 📅 2026-11-19 (Thursday) — Severity vs Priority Matrix in Sprint Triage
+- **Core Concept:** Severity measures system defect impact (e.g. crash/data corruption). Priority determines developer urgency. High Severity/Low Priority: Crash in obscure edge-case configuration. Low Severity/High Priority: Misspelled company logo on landing page.
+- **Author:** VARUN M S
+- **Status:** Verified in production & automated test pipelines.
+
+---
+
