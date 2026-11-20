@@ -54,3 +54,10 @@
 
 ---
 
+### 📅 2026-11-20 (Friday) — Smoke Testing vs Sanity Testing
+- **Core Concept:** Smoke Testing (Build Verification Test) is broad and shallow, run on initial builds to verify critical end-to-end paths. Sanity Testing is narrow and deep, run after minor bug fixes to verify the specific module works before regression testing.
+- **Author:** VARUN M S
+- **Status:** Verified in production & automated test pipelines.
+
+---
+
