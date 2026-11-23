@@ -75,3 +75,10 @@
 
 ---
 
+### 📅 2026-11-23 (Monday) — Defect Life Cycle & Disputed Bug Resolution
+- **Core Concept:** When a developer marks a bug as 'Not a Bug', reproduce it systematically, capture DevTools console/network logs, and verify against the SRS/BRD. If ambiguity persists, present the reproducible steps to the Product Owner/QA Lead.
+- **Author:** VARUN M S
+- **Status:** Verified in production & automated test pipelines.
+
+---
+
