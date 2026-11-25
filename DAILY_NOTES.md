@@ -89,3 +89,10 @@
 
 ---
 
+### 📅 2026-11-25 (Wednesday) — Equivalence Class Partitioning (ECP)
+- **Core Concept:** Divide test inputs into mutually exclusive equivalence partitions where all members are assumed to be processed identically by the system. Test one typical representative per partition to optimize test efficiency without reducing defect detection.
+- **Author:** VARUN M S
+- **Status:** Verified in production & automated test pipelines.
+
+---
+
